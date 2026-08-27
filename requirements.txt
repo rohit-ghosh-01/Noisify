@@ -1,0 +1,8 @@
+#python3.7
+tensorflow==2.4.1
+keras==2.4.3
+mtcnn-0.1.1
+opencv-python-5.0.0.93
+face_recognition
+pillow-9.5.0
+
